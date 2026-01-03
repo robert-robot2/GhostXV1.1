@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GhostBlade/GhostBlade.csproj" />
+  <Project Path="GhostBladeX/GhostBladeX.vcxproj" Id="d9a67294-e486-41e5-9786-2a1cbbf4ee3c" />
+</Solution>
